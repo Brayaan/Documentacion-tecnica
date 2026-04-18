@@ -1,0 +1,38 @@
+{
+  "metadata": [
+    {
+      "src": [
+        {
+          "files": [
+            "Assets/spritesheets/Scripts/**/*.cs",
+            "Assets/Tests/PlayMode/**/*.cs"
+          ],
+          "src": "C:\\Users\\Kevin\\Pictures\\Documentación\\Practica"
+        }
+      ],
+      "dest": "api",
+      "references": [
+        "C:\\Program Files\\Unity\\Hub\\Editor\\6000.3.11f1\\Editor\\Data\\Managed\\UnityEngine.dll",
+        "C:\\Program Files\\Unity\\Hub\\Editor\\6000.3.11f1\\Editor\\Data\\Managed\\UnityEditor.dll",
+        "C:\\Program Files\\Unity\\Hub\\Editor\\6000.3.11f1\\Editor\\Data\\Managed\\UnityEngine.CoreModule.dll"
+      ],
+      "properties": {
+        "TargetFramework": "netstandard2.1"
+      },
+      "allowCompilationErrors": true
+    }
+  ],
+  "build": {
+    "content": [
+      {
+        "files": ["**/*.{md,yml}"]
+      }
+    ],
+    "dest": "_site",
+    "globalMetadata": {
+      "_appTitle": "Documentación del Proyecto",
+      "_appFooter": "Generado con DocFX",
+      "_enableSearch": true
+    }
+  }
+}
