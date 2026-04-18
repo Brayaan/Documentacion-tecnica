@@ -25,13 +25,13 @@
 var NAVTREE =
 [
   [ "Documentación Técnica", "index.html", [
-    [ "Estructura del Proyecto", "index.html#autotoc_md9", null ],
-    [ "Clases Principales", "index.html#autotoc_md11", null ],
-    [ "Guía Rápida", "index.html#autotoc_md13", null ],
-    [ "Ejemplos de Código", "index.html#autotoc_md15", null ],
-    [ "Recursos Adicionales", "index.html#autotoc_md16", null ],
-    [ "Convenciones de Documentación", "index.html#autotoc_md18", null ],
-    [ "Contribución", "index.html#autotoc_md19", null ],
+    [ "Estructura del Proyecto", "index.html#autotoc_md2", null ],
+    [ "Clases Principales", "index.html#autotoc_md4", null ],
+    [ "Guía Rápida", "index.html#autotoc_md6", null ],
+    [ "Ejemplos de Código", "index.html#autotoc_md8", null ],
+    [ "Recursos Adicionales", "index.html#autotoc_md9", null ],
+    [ "Convenciones de Documentación", "index.html#autotoc_md11", null ],
+    [ "Contribución", "index.html#autotoc_md12", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],

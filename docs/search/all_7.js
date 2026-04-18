@@ -8,5 +8,5 @@ var searchData=
   ['gainenergyfromdamage_5fincreasesenergybytwo_5',['GainEnergyFromDamage_IncreasesEnergyByTwo',['../class_energy_system_tests.html#ab5b4b0c7316ea0101b4265cf3ffd31f2',1,'EnergySystemTests']]],
   ['groundcheck_6',['groundCheck',['../class_player_movement.html#a4c733d8e1fcc9ffd7223ac3182b380f5',1,'PlayerMovement']]],
   ['groundlayer_7',['groundLayer',['../class_player_movement.html#a5cd0bdfb2edd218c8cd76f0eee992cb1',1,'PlayerMovement']]],
-  ['guía_20rápida_8',['Guía Rápida',['../index.html#autotoc_md13',1,'']]]
+  ['guía_20rápida_8',['Guía Rápida',['../index.html#autotoc_md6',1,'']]]
 ];
